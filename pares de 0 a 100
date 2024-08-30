@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math.h>
+
+int i;
+
+int main()
+{
+  printf(LOs números pares entre 0 y 100 son:  ");
+
+  for(i = 0; i <=100; i++)
+  {
